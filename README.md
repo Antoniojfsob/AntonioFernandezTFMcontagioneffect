@@ -1,2 +1,2 @@
 # TFMcontagioneffect
-This is the code available for the Master's Final Paper. In it, I study the contagion effect of the USA Index over several african countries.
+En este post se encuentra los códigos necesarios para replicar el estudio realizado por Antonio José Fernández Sobaberas acerca del efecto contagio de la crisis financiera de 2008 por parte de EE.UU a países africanos.
